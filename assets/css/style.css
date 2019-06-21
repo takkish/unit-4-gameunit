@@ -1,0 +1,59 @@
+.container {
+    width: 100%;
+    max-width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+  
+}
+
+.title{
+    background-color: brown;
+}
+
+.win{
+    background: blue;
+    height: 35px;
+    margin: 0;
+}
+
+.lose{
+    background-color: blueviolet;
+    height: 35px;
+    margin: 0;
+
+}
+
+.target{
+    background: blue;
+    height: 70px;
+    font-size: 40px;
+}
+
+.crystal{}
+
+.score{
+    
+    height: 140px;
+    margin: 0;
+    font-weight: bold;
+    width: 300px;
+    background: blue;
+    font-size: 40px;
+}
+
+.urscore{
+    background: blueviolet;
+    font-weight: bold;
+    height: 50px;
+    margin: 0;
+    width: 300px;
+
+}
+
+.words{
+    background-color: aqua;
+    font-weight: bold;
+    padding: 10px;
+}
+
+body {background-color: rgb(221, 33, 221);}
